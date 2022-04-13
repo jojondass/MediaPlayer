@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">MediaPlayer</string>
+    <string name="title_text">Bienvenu(e) sur le MediaPlayer</string>
+    <string name="song_title_text">Titre de la chanson</string>
+    <string name="song_max_duration">Durée totale</string>
+    <string name="current_position">Position courante de la chanson</string>
+    <string name="btn_load_song_text">Charger la chanson</string>
+</resources>
